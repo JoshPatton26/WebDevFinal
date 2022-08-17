@@ -1,8 +1,8 @@
 Description: 
-This was a group project for my 'CS:421-AdvancedWebApplicationDevelopment' course at The University of Alabama. 
-My group consisted of me and one other member, Alex Pruitt. We decided to go witha simple E-commerce website that 
-allows the user to create an account, login and logout of that account, browse all items and add them to a cart, 
-the ability to view and checkout users cart, and the ability for admin to go in and add, modify, or remove any 
+This was a group project for my 'CS:421 - Advanced Web Application Development' course at The University of Alabama
+at Birmingham. My group consisted of me and one other member, Alex Pruitt. We decided to go witha simple E-commerce 
+website that allows the user to create an account, login and logout of that account, browse all items and add them to 
+a cart, the ability to view and checkout users cart, and the ability for admin to go in and add, modify, or remove any 
 product in the system.
 
 Operaterates correctly on:
