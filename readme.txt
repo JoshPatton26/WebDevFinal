@@ -1,9 +1,46 @@
-Description: 
-This was a group project for my 'CS:421 - Advanced Web Application Development' course at The University of Alabama
-at Birmingham. My group consisted of me and one other member, Alex Pruitt. We decided to go witha simple E-commerce 
-website that allows the user to create an account, login and logout of that account, browse all items and add them to 
-a cart, the ability to view and checkout users cart, and the ability for admin to go in and add, modify, or remove any 
-product in the system.
+Small E-Commerce Website: Advanced Web Development Final Project
+
+Welcome to the repository for the Small E-Commerce Website, the final project of the Advanced Web Development course at The University of Alabama at Birmingham (UAB). This project stands as a testament to your proficiency in full-stack development, showcasing your ability to create a dynamic and interactive web application from the ground up.
+
+
+Project Highlights
+
+    Real-World Scenario: Emulate a real e-commerce experience, allowing users to create accounts, browse products, manage their cart, and simulate purchases.
+
+    Full Stack Proficiency: Showcase your ability to create a seamless user experience by harmonizing frontend and backend development.
+
+    Authentication and Authorization: Implement user authentication to provide secure access to account features and ensure data privacy.
+
+    Database Management: Utilize SQLite3 and SQLAlchemy to design, create, and manage the database that underpins the application.
+
+
+Features
+
+    User Registration and Login: Allow users to create accounts and securely log in to access personalized features.
+
+    Product Catalog: Showcase a range of products, enabling users to browse and explore.
+
+    Shopping Cart Management: Enable users to add and remove products from their cart, simulating the shopping experience.
+
+    Simulated Purchase: Allow users to finalize their cart and simulate the purchase process (no real transactions).
+
+
+Technologies Utilized
+
+    Python
+    Flask Framework
+    HTML
+    Bootstrap
+    CSS
+    SQLite3 Database
+    SQLAlchemy
+
+
+Contributors
+
+    Your Name
+    Alex Pruitt
+
 
 Operaterates correctly on:
 	IDE: 
